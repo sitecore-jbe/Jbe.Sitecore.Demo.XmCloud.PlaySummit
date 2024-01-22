@@ -81,7 +81,7 @@ const Breadcrumb = (props: BreadcrumbProps): JSX.Element => {
 
   return (
     <nav className={`breadcrumb ${sxaStyles}`} aria-label="breadcrumbs">
-      <ol className="list">CUSTOMIZED {breadcrumbListItems}</ol>
+      <ol className="list">CUSTOMIZED2 {breadcrumbListItems}</ol>
     </nav>
   );
 };
